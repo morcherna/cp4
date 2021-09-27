@@ -1,0 +1,9 @@
+name = input()
+surname = input()
+birth = int(input())
+print(name, surname, birth, sep="_")
+temp = name
+surname = name
+surname = name
+birth += 60
+print(name, surname, birth, sep="_")
